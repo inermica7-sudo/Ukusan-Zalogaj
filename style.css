@@ -431,7 +431,7 @@ nav a:hover {
 .offer-block {
   margin-top: 1rem;
   padding-top: 0.8rem;
-  border-top: 1px solid #d4af37;  /* ovo je zlatna linija */
+  border-top: 1px solid #d4af37; 
   width: 100%;
   text-align: left;
 }
@@ -1272,7 +1272,7 @@ textarea:focus {
 }
 @media (max-width: 480px) {
   .hero {
-    padding-top: 5.8rem;   /* POMJERENO GORE */
+    padding-top: 5.8rem;   
     padding-bottom: 1rem;
     min-height: 70vh;
   }
